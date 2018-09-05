@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XCL21X
+D Torex Semiconductor XCL219/XCL220 Series
+K DC-DC switching regulator
+F https://www.torexsemi.com/file/xcl219/XCL219-XCL220.pdf
+$ENDCMP
+#
+#End Doc Library
